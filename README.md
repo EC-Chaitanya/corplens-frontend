@@ -16,3 +16,12 @@ A Next.js-based frontend prototype for analyzing corporate integrity using AI-po
 - **Modern UI**: Built with Tailwind CSS and Recharts
 
 
+## Tech Stack
+
+- **Framework**: Next.js 14 (App Router)
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Charts**: Recharts
+- **Icons**: Lucide React
+
+Proprietary - All rights reserved
