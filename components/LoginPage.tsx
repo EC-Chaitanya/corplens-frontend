@@ -155,7 +155,7 @@ export default function LoginPage() {
                     <div className="w-5 h-5 rounded-full bg-indigo-500/30 flex items-center justify-center mt-0.5">
                       <div className="w-2 h-2 rounded-full bg-indigo-300"></div>
                     </div>
-                    <span className="text-slate-200">Benford's Law Fraud Detection</span>
+                    <span className="text-slate-200">Benford&apos;s Law Fraud Detection</span>
                   </div>
                   <div className="flex items-start gap-3">
                     <div className="w-5 h-5 rounded-full bg-indigo-500/30 flex items-center justify-center mt-0.5">
@@ -279,7 +279,7 @@ export default function LoginPage() {
                 </button>
 
                 <p className="text-center text-sm text-slate-400">
-                  Don't have an account?{' '}
+                  Don&apos;t have an account?{' '}
                   <a href="#" className="text-indigo-400 hover:text-indigo-300 transition-colors">
                     Request Demo
                   </a>
