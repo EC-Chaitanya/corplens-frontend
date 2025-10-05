@@ -278,7 +278,7 @@ export default function IntegrityScoreBreakdown({ data }: IntegrityScoreBreakdow
           <div className="space-y-2 text-xs text-slate-400">
             <div className="flex items-center gap-2">
               {getScoreIcon(data.scores.financialIntegrity.score)}
-              <span>Benford's Law Analysis: Statistical anomaly detection</span>
+              <span>Benford&apos;s Law Analysis: Statistical anomaly detection</span>
             </div>
             <div className="flex items-center gap-2">
               {getScoreIcon(data.scores.financialIntegrity.score)}
@@ -397,7 +397,7 @@ export default function IntegrityScoreBreakdown({ data }: IntegrityScoreBreakdow
           <div>
             <h4 className="text-sm font-bold text-blue-300 mb-2">AI-Powered Methodology</h4>
             <p className="text-xs text-slate-400 leading-relaxed">
-              This integrity score combines <span className="text-white font-semibold">forensic accounting</span> (Benford's Law, Beneish M-Score), 
+              This integrity score combines <span className="text-white font-semibold">forensic accounting</span> (Benford&apos;s Law, Beneish M-Score), 
               <span className="text-white font-semibold"> regulatory monitoring</span> (NER for SEBI/ED/NCLT), 
               <span className="text-white font-semibold"> sentiment analysis</span> (employee reviews, news), 
               and <span className="text-white font-semibold">topic modeling</span> (LDA for culture assessment). 

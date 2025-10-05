@@ -15,7 +15,7 @@ const Dashboard: React.FC<DashboardProps> = ({ data }) => {
       <div className="flex flex-col items-center text-center">
         <ScoreGauge score={data.integrityScore} />
         <h1 className="text-3xl font-bold text-white mt-4">{data.companyName}</h1>
-        <p className="text-slate-400 mt-1 italic">"{data.summary}"</p>
+        <p className="text-slate-400 mt-1 italic">{`"${data.summary}"`}</p>
       </div>
 
       {/* New: Comprehensive Score Breakdown with Charts */}

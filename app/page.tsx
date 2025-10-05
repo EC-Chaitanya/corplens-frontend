@@ -209,7 +209,7 @@ export default function Home() {
                   <div className="bg-slate-800/30 rounded-xl p-12 text-center border border-slate-700">
                     <div className="text-6xl mb-4">🔒</div>
                     <h3 className="text-2xl font-bold text-white mb-2">Upgrade to Institutional Plan</h3>
-                    <p className="text-slate-400 mb-6">Access advanced financial analysis, heat maps, and Benford's Law detection</p>
+                    <p className="text-slate-400 mb-6">Access advanced financial analysis, heat maps, and Benford&apos;s Law detection</p>
                     <button className="bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-3 rounded-lg font-semibold transition-colors">
                       Upgrade Now
                     </button>
