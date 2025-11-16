@@ -25,3 +25,4 @@ A Next.js-based frontend prototype for analyzing corporate integrity using AI-po
 - **Icons**: Lucide React
 
 Proprietary - All rights reserved
+Demo link:- https://youtu.be/c54RzgSw2Qs?si=GrUH2DJe03Na7Bck
